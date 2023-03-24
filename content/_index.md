@@ -11,5 +11,6 @@ Welcome to Vivus.Cloud Blog, a place to explore new ideas and have fun!
 - Coffee?
 - Snack?
 - Fruit?
+- Plant?
 - Let's go!
   {{< /ticks >}}
