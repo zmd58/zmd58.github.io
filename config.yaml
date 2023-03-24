@@ -17,8 +17,8 @@ imaging:
   quality: 99
 
 params:
-  description: Living among the clouds
-  homeMetaContent: Living among the clouds
+  description: Living Among The Clouds
+  homeMetaContent: Living Among The Clouds
   footer: Copyright © 2023 Zoe Dang
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Mar 23, 2023
@@ -29,8 +29,8 @@ params:
   showThemeSwitcher: true
   defaultDarkTheme: false
   moveFooterToHeader: false
-  #navTitleText: Cupper Theme
-  logoAlt: An alternative text description of the logo
+  # navTitleText: Cupper Theme
+  logoAlt: Vivus.CLoud Logo
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -56,9 +56,9 @@ menu:
     - name: About
       url: /about/
       weight: 4
-    # - name: RSS
-    #   url: /index.xml
-    #   weight: 5
+    - name: Contact
+      url: /contact/
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
