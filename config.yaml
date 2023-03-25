@@ -121,7 +121,7 @@ params:
     title: "Zoe."
     subtitle: "I build things for the web and mobile"
     content: "A passionate Java developer. I tend to make use of modern technologies to build websites and applications that look great, feel fantastic, and function correctly."
-    image: /images/me.png
+    image: /images/me.jpeg
     bottomImage:
       enable: false
     roundImage: true # Make hero image circular | default false
@@ -145,7 +145,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/me.jpeg"
     content: |-
       I am a passionate coder with a thirst for knowledge, I am deeply committed to leveraging my skills to enhance our daily lives and transform businesses. My ultimate aim is to make a meaningful and positive impact on the world, and I strive for excellence in my work.
 
