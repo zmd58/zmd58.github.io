@@ -138,8 +138,8 @@ params:
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/zoe-dang/
       customIcons:
-        # - icon: /fav.png
-        #   url: "https://example.com"
+        - icon: /fav.png
+          url: mailto:zmdang58@gmail.com
 
   # About
   about:
