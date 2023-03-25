@@ -110,7 +110,7 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: false
+      disableProjects: true
       disableAchievements: true
       disableContact: false
 
