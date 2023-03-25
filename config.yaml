@@ -121,7 +121,7 @@ params:
     title: "Zoe."
     subtitle: "I build things for the web and mobile"
     content: "A passionate Java developer. I tend to make use of modern technologies to build websites and applications that look great, feel fantastic, and function correctly."
-    image: /images/onlyme.png
+    image: /images/me.png
     bottomImage:
       enable: false
     roundImage: true # Make hero image circular | default false
