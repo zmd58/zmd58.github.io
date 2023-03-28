@@ -316,7 +316,7 @@ params:
     # title: "Custom Name"
     content: I will get back to you as soon as possible!
     email: zmdang58@gmail.com
-    btnName: Mail me
+    btnName: Contact via E-mail
     # formspree:
     #   enable: true # `contact.email` value will be ignored
     #   formId: abcdefgh # Take it from your form's endpoint, like 'https://formspree.io/f/abcdefgh'
