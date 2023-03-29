@@ -172,6 +172,16 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Freelance Software Developer"
+        company: "Self-Employed"
+        companyUrl: "https://www.vivus.cloud"
+        date: "Mar 2023 - Present"
+        content: |
+          - Follow SDLC methodology to plan and implement websites via frameworks like Hugo and Jekyll
+          - Proactively self-training on various frameworks and languages such as Python, C#, MongoDB, and AWS
+
+
+
       - job: "Lead Tutor"
         company: "RTC"
         companyUrl: "https://rtc.edu"
