@@ -180,8 +180,6 @@ params:
           - Follow SDLC methodology to plan and implement websites via frameworks like Hugo and Jekyll
           - Proactively self-training on various frameworks and languages such as Python, C#, MongoDB, and AWS
 
-
-
       - job: "Lead Tutor"
         company: "RTC"
         companyUrl: "https://rtc.edu"
@@ -190,7 +188,6 @@ params:
           - Collaborated with a team to provide high-quality tutoring services through constant innovation and a variety of devices and platforms, including computers, tablets, and Macs, which improved student success by over 90%
           - Acted as a member of the hiring panel and contributed to the decision-making process toward the expansion of the Learning Resources & Career Center which increased by 300% over the course of 3 years
 
-      
       - job: "Associate Student Government: Executive of Finanace"
         company: "RTC"
         companyUrl: "https://rtc.edu"
