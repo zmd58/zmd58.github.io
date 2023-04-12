@@ -249,7 +249,7 @@ params:
         content: |-
           Bootcamp
             - A 21-week intensive program focused on Backend Java Development, including hands-on coursework in Java Development and Client-Server Programming (SQL, Spring, JPA, REST) as well as covering topics such as Data Structures, Algorithms, Design Patterns, Cloud / Microservice deployments, and DevOps (e.g. CI/CD)
-      - title: "Associate Degree"
+      - title: "Associate of Art Degree"
         school:
           name: "Renton Technical College"
           url: https://rtc.edu/
