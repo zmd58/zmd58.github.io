@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Zoe."
     subtitle: "I build things for the web and mobile"
-    content: "A passionate software developer with a strong interest in cybersecurity. I tend to make use of modern technologies to build websites and applications that look great, function correctly, and safe."
+    content: "A passionate software developer with a strong interest in cybersecurity. I tend to make use of modern technologies to build websites and applications that look great, function properly, and protected."
     image: /images/me.jpeg
     bottomImage:
       enable: false
@@ -157,6 +157,7 @@ params:
         - "Java"
         - "Spring Boot"
         - "SQL"
+        - "NoSQL"
         - "Postgres"
         - "Postman"
         - "HTML"
@@ -164,7 +165,6 @@ params:
         - "JavaScript"
         - "React"
         - "Vue"
-        - "Node"
         - "MongoDB"
 
   # Experience
@@ -177,8 +177,8 @@ params:
         companyUrl: "https://www.vivus.cloud"
         date: "Mar 2023 - Present"
         content: |
-          - Follow SDLC methodology to plan and implement websites via frameworks like Hugo and Jekyll
-          - Proactively self-training on various frameworks and languages such as Python, C#, MongoDB, and AWS
+          - Developed and deployed multiple website projects using Hugo and Jekyll, resulting in a streamlined and efficient development process.
+          - Continuously researched and implemented new technologies to enhance website functionality and user experience, resulting in increased engagement and retention rates.
 
       - job: "Lead Tutor"
         company: "RTC"
@@ -227,6 +227,19 @@ params:
     # title: "Custom Name"
     index: false
     items:
+      - title: "Bachelor of Science Degree"
+        school:
+          name: "Western Governors University"
+          url: https://www.wgu.edu/
+        date: "2023 - present"
+        content: |-
+          Major in Software Engineering:
+          - Designed with input from industry experts, the B.S. Software Engineering program provides a solid foundation with these key skills:
+            - Scripting and programming
+            - Web development
+            - Mobile application development 
+            - User experience design
+            - Software quality assurance
       - title: "Java Development"
         school:
           name: "Merit America"
