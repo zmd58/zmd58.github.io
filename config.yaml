@@ -172,9 +172,9 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Freelance Software Developer"
-        company: "Self-Employed"
-        companyUrl: "https://www.vivus.cloud"
+      - job: "Software Developer"
+        company: "Freelance"
+        companyUrl: "https://www.vivus.cloud/"
         date: "Mar 2023 - Present"
         content: |
           - Developed and deployed multiple website projects using Hugo and Jekyll, resulting in a streamlined and efficient development process.
