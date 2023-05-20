@@ -172,17 +172,25 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - job: "Software Developer"
+      - job: "Web Developer"
         company: "Freelance"
-        companyUrl: "https://www.vivus.cloud/"
+        # companyUrl: "https://www.vivus.cloud/"
         date: "Mar 2023 - Present"
         content: |
           - Developed and deployed multiple website projects using Hugo and Jekyll, resulting in a streamlined and efficient development process.
           - Continuously researched and implemented new technologies to enhance website functionality and user experience, resulting in increased engagement and retention rates.
 
+      - job: "Software Developer Apprentice"
+        company: "Javascript Today"
+        # companyUrl: "https://www.vivus.cloud/"
+        date: "Mar 2023 - Present"
+        content: |
+          - Designed and implemented scalable server-side solutions using Node.js and Express, leveraging the latest technologies and best practices to optimize performance and minimize downtime
+          - Collaborated with cross-functional teams to troubleshoot and debug JavaScript and HTML code, resulting in quicker issue resolution and improved software quality
+
       - job: "Lead Tutor"
         company: "RTC"
-        companyUrl: "https://rtc.edu"
+        # companyUrl: "https://rtc.edu"
         date: "Nov 2013 - May 2017"
         content: |
           - Collaborated with a team to provide high-quality tutoring services through constant innovation and a variety of devices and platforms, including computers, tablets, and Macs, which improved student success by over 90%
@@ -190,7 +198,7 @@ params:
 
       - job: "Associate Student Government: Executive of Finanace"
         company: "RTC"
-        companyUrl: "https://rtc.edu"
+        # companyUrl: "https://rtc.edu"
         date: "Jan 2015 - May 2017"
         content: |
           - Analyzed, designed, and developed an end-to-end financial budget by collaborating with the team to determine barriers and opportunities, which was successfully approved and utilized by the college's Board of Directors
@@ -198,7 +206,7 @@ params:
      
       - job: "Informational Technology Department Intern"
         company: "RTC"
-        companyUrl: "https://rtc.edu"
+        # companyUrl: "https://rtc.edu"
         date: "Jul 2015 - Dec 2015"
         content: |
           - Analyzed, tested, and solved problems by assessing issues and researching solutions under the direction of higher seniors as a continuous learning process
