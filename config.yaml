@@ -1,6 +1,6 @@
 baseURL: "https://zmd58.github.io/"
 languageCode: "en-us"
-title: "vivus"
+title: "ZMD"
 theme: hugo-profile
 
 outputs:
