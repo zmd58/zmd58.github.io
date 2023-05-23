@@ -183,7 +183,7 @@ params:
       - job: "Software Developer Apprentice"
         company: "Javascript Today"
         companyUrl: ""
-        date: "Mar 2023 - Present"
+        date: "Apr 2023 - May 2023"
         content: |
           - Designed and implemented scalable server-side solutions using Node.js and Express, leveraging the latest technologies and best practices to optimize performance and minimize downtime
           - Collaborated with cross-functional teams to troubleshoot and debug JavaScript and HTML code, resulting in quicker issue resolution and improved software quality
