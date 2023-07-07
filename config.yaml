@@ -248,15 +248,6 @@ params:
             - Mobile application development 
             - User experience design
             - Software quality assurance
-      - title: "Java Development"
-        school:
-          name: "Merit America"
-          url: https://meritamerica.org/
-        date: "2022 - 2023"
-        # GPA: "3.8 out of 5.0"
-        content: |-
-          Bootcamp
-            - A 21-week intensive program focused on Backend Java Development, including hands-on coursework in Java Development and Client-Server Programming (SQL, Spring, JPA, REST) as well as covering topics such as Data Structures, Algorithms, Design Patterns, Cloud / Microservice deployments, and DevOps (e.g. CI/CD)
       - title: "Associate of Art Degree"
         school:
           name: "Renton Technical College"
