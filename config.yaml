@@ -1,6 +1,6 @@
 baseURL: "https://zmd58.github.io/"
 languageCode: "en-us"
-title: "ZMD"
+title: "ZDANG"
 theme: hugo-profile
 
 outputs:
@@ -53,8 +53,8 @@ Menus:
     #   weight: 2
 
 params:
-  title: "vivus"
-  description: Welcome to My Portfolio!
+  title: "ZDANG"
+  description: Welcome to Zoe's Portfolio!
   # staticPath: ""  # The path to serve the static files from
   favicon: "/fav.png"
 
@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Zoe."
     subtitle: "I build things for the web and mobile"
-    content: "A passionate software developer with a strong interest in cybersecurity. I tend to make use of modern technologies to build websites and applications that look great, function properly, and protected."
+    content: "A passionate software developer with a strong interest in cyber-security. I tend to make use of modern technologies to build websites and applications that look great, function properly, and protected."
     image: /images/me.jpeg
     bottomImage:
       enable: false
@@ -156,6 +156,7 @@ params:
       items:
         - "Java"
         - "Spring Boot"
+        - "Angular"
         - "SQL"
         - "NoSQL"
         - "Postgres"
@@ -163,8 +164,8 @@ params:
         - "HTML"
         - "CSS"
         - "JavaScript"
-        - "React"
-        - "Vue"
+        - "ReactJS"
+        - "VueJS"
         - "MongoDB"
 
   # Experience
