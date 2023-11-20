@@ -167,6 +167,7 @@ params:
         - "ReactJS"
         - "VueJS"
         - "MongoDB"
+        - "Python"
 
   # Experience
   experience:
