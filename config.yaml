@@ -164,6 +164,7 @@ params:
         - "HTML"
         - "CSS"
         - "JavaScript"
+        - "Typescript"
         - "ReactJS"
         - "VueJS"
         - "MongoDB"
@@ -241,7 +242,7 @@ params:
         school:
           name: "Western Governors University"
           url: https://www.wgu.edu/
-        date: "2023 - present"
+        date: "2023 - 2024"
         content: |-
           Major in Software Engineering:
           - Designed with input from industry experts, the B.S. Software Engineering program provides a solid foundation with these key skills:
@@ -305,9 +306,17 @@ params:
         badges:
           - "Java"
           - "I/O"
-        # links:
-        #   - icon: fab fa-github
-        #     url: https://github.com/gurusabarish/converter
+          -
+
+      - title: Paradigm Pet
+        content: A website for Paradigm Pet.
+        image: /images/projects/paradigmpet.png
+        featured:
+          name: Demo
+          link: https://github.com/zmd58/ParadigmPet
+        badges:
+          - "HTML"
+          - "CSS"
 
   #     - title: Hugo Profile V2
   #       content: A clean and simple Hugo template for personal portfolio and blog.
