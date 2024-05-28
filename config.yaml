@@ -301,7 +301,7 @@ params:
         content: A replica of a vending machine performing its tasks virtually.
         image: /images/projects/vendingmachine.png
         featured:
-          name: Demo
+          name: GitHub
           link: https://github.com/zmd58/VirtualVendingMachineApplication
         badges:
           - "Java"
@@ -312,7 +312,7 @@ params:
         content: A website for Paradigm Pet.
         image: /images/projects/paradigmpet.png
         featured:
-          name: Demo
+          name: GitHub
           link: https://github.com/zmd58/ParadigmPet
         badges:
           - "HTML"
@@ -322,13 +322,23 @@ params:
         content: An interactive world map with various infos.
         image: /images/projects/map.png
         featured:
-          name: Demo
+          name: GitHub
           link: https://github.com/zmd58/InteractiveMap
         badges:
           - "Typescript"
           - "Angular"
           - "HTML"
           - "CSS"
+
+      - title: CRUD Mobile App
+        content: An CRUD mobile application.
+        image: /images/projects/mobile.png
+        featured:
+          name: GitHub
+          link: https://github.com/zmd58/MobileApp
+        badges:
+          - "Gradle"
+          - "Java"
 
   #     - title: Hugo Profile V2
   #       content: A clean and simple Hugo template for personal portfolio and blog.
