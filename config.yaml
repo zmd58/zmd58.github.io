@@ -330,7 +330,7 @@ params:
           - "HTML"
           - "CSS"
 
-      - title: CRUD Mobile App
+      - title: Mobile App
         content: An CRUD mobile application.
         image: /images/projects/mobile.png
         featured:
