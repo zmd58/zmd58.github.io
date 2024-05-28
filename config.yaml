@@ -281,7 +281,7 @@ params:
         content: An banking application that allows users to send and request money.
         image: /images/projects/tenmo.png
         featured:
-          name: Demo
+          name: GitHub
           link: https://github.com/zmd58/MoneyTransferApplication
         badges:
           - "Java"
