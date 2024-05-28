@@ -318,6 +318,18 @@ params:
           - "HTML"
           - "CSS"
 
+      - title: Interactive World Map
+        content: An interactive world map with various infos.
+        image: /images/projects/map.png
+        featured:
+          name: Demo
+          link: https://github.com/zmd58/InteractiveMap
+        badges:
+          - "Typescript"
+          - "Angular"
+          - "HTML"
+          - "CSS"
+
   #     - title: Hugo Profile V2
   #       content: A clean and simple Hugo template for personal portfolio and blog.
   #       image: /images/projects/profile2.jpg
