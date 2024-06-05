@@ -178,7 +178,7 @@ params:
 
       - job: "AI Trainer"
         company: "RemoTasks"
-        companyUrl: ""
+#        companyUrl: ""
         date: "Jun 2024 - Present"
         content: |
           - Proficiently annotated diverse datasets for machine learning models, ensuring data accuracy and adherence to project requirements, resulting in enhanced model performance and client satisfaction.
@@ -186,7 +186,7 @@ params:
 
       - job: "Web Developer"
         company: "Freelance"
-        companyUrl: ""
+#        companyUrl: ""
         date: "Mar 2023 - Present"
         content: |
           - Developed and deployed multiple website projects using Hugo and Jekyll, resulting in a streamlined and efficient development process.
@@ -194,7 +194,7 @@ params:
 
       - job: "Software Engineering Virtual Experience on Forage"
         company: "J.P. Morgan Chase"
-        companyUrl: ""
+#        companyUrl: ""
         date: "Jun 2024 - Jun 2024"
         content: |
           - Set up a local dev environment by downloading the necessary files, tools, and dependencies.
@@ -204,7 +204,7 @@ params:
 
       - job: "Software Developer Apprentice"
         company: "Javascript Today"
-        companyUrl: ""
+#        companyUrl: ""
         date: "Apr 2023 - May 2023"
         content: |
           - Designed and implemented scalable server-side solutions using Node.js and Express, leveraging the latest technologies and best practices to optimize performance and minimize downtime
@@ -212,7 +212,7 @@ params:
 
       - job: "Lead Tutor"
         company: "RTC"
-        companyUrl: ""
+#        companyUrl: ""
         date: "Nov 2013 - May 2017"
         content: |
           - Collaborated with a team to provide high-quality tutoring services through constant innovation and a variety of devices and platforms, including computers, tablets, and Macs, which improved student success by over 90%
@@ -220,7 +220,7 @@ params:
 
       - job: "Associate Student Government: Executive of Finance"
         company: "RTC"
-        companyUrl: ""
+#        companyUrl: ""
         date: "Jan 2015 - May 2017"
         content: |
           - Analyzed, designed, and developed an end-to-end financial budget by collaborating with the team to determine barriers and opportunities, which was successfully approved and utilized by the college's Board of Directors
@@ -228,7 +228,7 @@ params:
      
       - job: "Informational Technology Department Intern"
         company: "RTC"
-        companyUrl: ""
+#        companyUrl: ""
         date: "Jul 2015 - Dec 2015"
         content: |
           - Analyzed, tested, and solved problems by assessing issues and researching solutions under the direction of higher seniors as a continuous learning process
