@@ -177,7 +177,7 @@ params:
     items:
 
       - job: "AI Trainer"
-        company: "RemoTasks"
+        company: "Outlier"
 #        companyUrl: ""
         date: "Jun 2024 - Present"
         content: |
