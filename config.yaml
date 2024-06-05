@@ -192,7 +192,8 @@ params:
           - Developed and deployed multiple website projects using Hugo and Jekyll, resulting in a streamlined and efficient development process.
           - Continuously researched and implemented new technologies to enhance website functionality and user experience, resulting in increased engagement and retention rates.
 
-      - job: "Software Engineering Virtual Experience on Forage"
+#      - job: "Software Engineering Virtual Experience on Forage"
+      - job: "Test"
         company: "J.P.Morgan Chase"
 #        companyUrl: ""
         date: "Jun 2024 - Jun 2024"
