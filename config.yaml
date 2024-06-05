@@ -175,6 +175,13 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "AI Trainer"
+        company: "RemoTasks"
+        date: "Jun 2024 - Present"
+        content: |
+          - Proficiently annotated diverse datasets for machine learning models, ensuring data accuracy and adherence to project requirements, resulting in enhanced model performance and client satisfaction.
+          - Collaborated with cross-functional teams to streamline annotation processes, implement quality control measures, and provide valuable feedback, contributing to improved efficiency and effectiveness in AI development projects.
+
       - job: "Web Developer"
         company: "Freelance"
         companyUrl: ""
@@ -182,6 +189,15 @@ params:
         content: |
           - Developed and deployed multiple website projects using Hugo and Jekyll, resulting in a streamlined and efficient development process.
           - Continuously researched and implemented new technologies to enhance website functionality and user experience, resulting in increased engagement and retention rates.
+
+      - job: "Software Engineering Virtual Experience on Forage 		"
+        company: "J.P. Morgan Chase"
+        companyUrl: ""
+        date: "Jun 2024 - Jun 2024"
+        content: |
+          - Set up a local dev environment by downloading the necessary files, tools, and dependencies.
+          - Fixed broken files in the repository to make web application output correctly.
+          - Used JPMorgan Chase’s open-source library called Perspective to generate a live graph that displays a data feed in a clear and visually appealing way for traders to monitor.
 
       - job: "Software Developer Apprentice"
         company: "Javascript Today"
