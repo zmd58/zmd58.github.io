@@ -120,7 +120,7 @@ params:
     intro: "Hi, my name is"
     title: "Zoe."
     subtitle: "I build things for the web and mobile"
-    content: "A passionate software developer with a strong interest in Data Science/Data Analystic and Accounting/Finance. I tend to make use of modern technologies to build websites and applications that look great, function properly, and efficiently."
+    content: "A passionate software developer with a strong interest in Data Science/Data Analystic and Accounting/Finance. I tend to make use of modern technologies to build websites and applications that look great while function properly and efficiently."
     image: /images/me.png
     bottomImage:
       enable: false
